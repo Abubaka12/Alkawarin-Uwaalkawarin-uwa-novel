@@ -265,3 +265,157 @@ toggle.addEventListener('click', () => {
 
 </body>
 </html>
+<!-- ================= EPISODE 4 ================= -->
+<h2 id="ep4">Episode 4 – Tafiya zuwa Sabbin Duniya</h2>
+
+<h3 id="ep4A">Part A – Sabuwar Tafiya</h3>
+<p>
+Amina ta samu labarin wata gasar ƙasa da ƙasa, inda za a aika manyan dalibai zuwa wasu kasashen duniya don karatu da musayar ilimi. Zuciyarta ta dinga bugawa da sauri, yayin da Fatima da Suleiman suka yi murna tare da ita.  
+</p>
+<p>
+"Za mu je Jamus, Faransa, da Ingila," Mr. Okoye ya sanar da ajin. Amina ta ji sabon haske a zuciyarta – wannan dama ce da ba kowa ke samu ba. Ta shirya kayan karatu, littattafai, da jakar da zata dauke ta a wannan tafiya mai ban mamaki.  
+</p>
+
+<h3 id="ep4B">Part B – Farkon Tafiya</h3>
+<p>
+Sun isa filin jirgin sama, birnin da ya cika da sauti da hayaniya. Jiragen suna tashin hankali, mutane suna gudu a ko'ina. Amina ta yi murmushi, tana jin cewa wannan tafiya zata canza rayuwarta.  
+</p>
+<p>
+A cikin jirgin, ta kalli taurari a sama, ta yi addu'a: "Allah ka jagoranci tafiyata, ka ba ni hikima da natsuwa." Ta lura da wasu dalibai daga Japan, Brazil, da Indiya – duk suna da tarihi da labarun daban-daban da zata koya daga gare su.  
+</p>
+
+<h3 id="ep4C">Part C – Sabbin Abokai</h3>
+<p>
+Amina ta fara haɗuwa da abokai daga kasashe daban-daban: Hiroshi daga Japan, Mariana daga Brazil, da Aisha daga Indiya. Kowanne yana da kwarewa da labarun rayuwa daban-daban.  
+</p>
+<p>
+Sun fara tattaunawa game da abubuwan da suka koya a kasashensu, labarun iyali, da al’adun gargajiya. Amina ta ji cewa duniya tana da faɗi sosai, kuma kowanne labari yana koya mata darasi mai mahimmanci.  
+</p>
+
+<h3 id="ep4D">Part D – Kalubale a Sabon Ƙasa</h3>
+<p>
+A lokacin da suka isa Jamus, Amina ta lura da yanayin daban – sanyi, hanyoyi masu tsabta, mutane masu ladabi. Duk da haka, akwai kalubale: harshe, abinci, da sabuwar hanyar karatu.  
+</p>
+<p>
+Amma Fatima da Suleiman suna tare da ita, suna taimaka mata wajen fuskantar kowanne matsala. "Ki yi hakuri da koyo, kowanne sabon abu zai zama dama," Fatima ta ce.  
+</p>
+
+<h3 id="ep4E">Part E – Farkon Koyo</h3>
+<p>
+A makarantar Jamus, Amina ta shiga azuzuwan da suka cika da sabbin dabaru da fasahohi. Malamansu sun yi karatu mai zurfi, suna ƙarfafa su don su fahimci al’adun ƙasa daban-daban.  
+</p>
+<p>
+Ta fara rubuta diary mai cikakken labari, ta rubuta kowane kalmomi da labari, tana jin cewa kowanne rana yana cike da darasi da sabon haske. Ta koyi cewa ilimi ba kawai karatu ba ne, amma haɗin kai da fahimta tsakanin mutane daban-daban.
+</p>
+
+<div class="nav-buttons">
+<a href="#ep3">&laquo; Episode 3</a>
+<a href="#ep5">Next → Episode 5</a>
+</div>
+<!-- ================= EPISODE 5 ================= -->
+<h2 id="ep5">Episode 5 – Sirrin Gaskiya da Haɗin Kai</h2>
+
+<h3 id="ep5A">Part A – Ƙarin Labarai</h3>
+<p>
+Amina ta shiga sabon ajin musayar ilimi, inda dalibai daga kasashe 15 suke. Kowanne yana kawo labari na al’adu, tarihi, da kalubale. Ta koyi cewa kowane mutum yana da darasi daban wanda zai iya taimaka mata a rayuwa.  
+</p>
+<p>
+Hiroshi daga Japan ya nuna mata dabarun kimiyya, Mariana daga Brazil ta koya mata yadda ake amfani da fasaha wajen tsara labarai, Aisha daga Indiya ta nuna mata dabarun sadarwa da haɗin kai a kungiyoyi.  
+</p>
+
+<h3 id="ep5B">Part B – Ƙalubale na Gaskiya</h3>
+<p>
+Lokacin aikin rukuni, Amina da abokanta sun fuskanci rashin jituwa tsakanin dalibai. Wasu sun yi ƙoƙarin fifita kasashensu, amma Amina ta jagoranci tattaunawa cikin hikima. Ta koya yadda haɗin kai da natsuwa ke kawo nasara.  
+</p>
+<p>
+"Mu koyi daga kowanne mutum, kuma mu yi aiki tare," ta ce. Ƙungiyarta ta fara samun nasara, suna kammala aikin da kyau kuma sun sami yabo daga malamai.  
+</p>
+
+<h3 id="ep5C">Part C – Sirrin Gaskiya</h3>
+<p>
+Amina ta gane cewa gaskiya da aiki tukuru ba kawai suna kawo nasara ba ne, amma suna samar da dangantaka mai kyau da mutane daban-daban. Duk wanda ya shiga tafiyarta, ya koyi darasi mai amfani.  
+</p>
+
+<div class="nav-buttons">
+<a href="#ep4">&laquo; Episode 4</a>
+<a href="#ep6">Next → Episode 6</a>
+</div>
+
+<!-- ================= EPISODE 6 ================= -->
+<h2 id="ep6">Episode 6 – Kalubale da Nasarori</h2>
+
+<h3 id="ep6A">Part A – Sabon Ƙalubale</h3>
+<p>
+Amina ta shiga gasar ƙasa da ƙasa ta kimiyya. Kowanne dalibi yana da sabon tsari da dabaru. Ta fuskanci kalubale mai wahala – aiki cikin lokaci, hada kai da sababbin abokai, da kuma ci gaba da karatun gida.  
+</p>
+<p>
+Ta yi amfani da duk abinda ta koya a baya: jajircewa, gaskiya, natsuwa, da haɗin kai. Kowanne labari da ta rubuta a diary yana taimaka mata wajen tunawa da darussa.  
+</p>
+
+<h3 id="ep6B">Part B – Nasarori Masu Dadi</h3>
+<p>
+Lokacin da aka sanar da sakamakon gasar, Amina ta lashe babban kyautar gasar. Farin ciki ya cika zuciyarta, amma mafi muhimmanci, ta fahimci cewa haɗin kai da gaskiya sun fi kowanne abu muhimmanci.  
+</p>
+<p>
+Abokanta da suka yi aiki tare da ita sun yi murna tare da ita. Malamai sun yaba da ƙarfin zuciya da hikimar da ta nuna. A wannan lokaci, Amina ta fahimci cewa duk wani ƙalubale yana da darasi da za a koya.  
+</p>
+
+<h3 id="ep6C">Part C – Darasi Mai Girma</h3>
+<p>
+Bayan gasar, Amina ta zauna a ɗaki tana rubutu a diary. Ta rubuta duk abubuwan da ta koya: cewa gaskiya, aiki tukuru, haɗin kai, da jinƙai suna haifar da nasara mai ɗorewa. Ta lura cewa kowanne mataki yana da muhimmanci a rayuwa.  
+</p>
+
+<div class="nav-buttons">
+<a href="#ep5">&laquo; Episode 5</a>
+<a href="#ep7">Next → Episode 7</a>
+</div>
+
+<!-- ================= EPISODE 7 ================= -->
+<h2 id="ep7">Episode 7 – Ƙarshe Mai Girgiza Zuciya</h2>
+
+<h3 id="ep7A">Part A – Labari Mai Ban Mamaki</h3>
+<p>
+Amina ta dawo gida daga tafiyar duniya, amma ta kawo wani sabon sirri. Mahaifiyarta ta bayyana cewa akwai wasika daga mahaifinta wanda ya ɓace shekaru da dama. Wasikar ta ƙunshi sirri da zai canza labarin rayuwarsu gaba ɗaya.  
+</p>
+<p>
+Amina ta bude wasikar, zuciyarta tana bugawa da sauri. Kalaman mahaifinta sun bayyana gaskiya da dalilin tafiyarsa da nisan shekaru. Ta koyi cewa dukkan abubuwan da suka faru a rayuwarta sun kasance don shiryar da ita zuwa wannan lokaci.  
+</p>
+
+<h3 id="ep7B">Part B – Ƙarshen Sirri</h3>
+<p>
+Daga cikin wasikar, mahaifinta ya bayyana labarin yadda ya tsara kowane mataki na rayuwar Amina don ta zama mace mai ƙarfin zuciya da hikima. Amina ta yi hawaye, amma farin ciki ya fi yawa.  
+</p>
+<p>
+Ta fahimci cewa rayuwa ba kawai samun nasara ba ce, amma fahimtar sirrin gaskiya da darussa daga kowane mataki. Duk wanda ya shiga tafiyarta, ya koyi darasi mai amfani.  
+</p>
+
+<h3 id="ep7C">Part C – Farkon Sabon Babi</h3>
+<p>
+Amina ta rungumi mahaifiyarta da ƙarfi, tana jin cewa duk abin da ta koya ya zama ainihin sirri da makullin rayuwa. Ta san cewa kowanne ƙaramin aiki, kowanne gaskiya, da kowanne haɗin kai yana haifar da babban haske a rayuwa.  
+</p>
+<p>
+Birni ya yi shiru, dare ya lullube dukkan gida, amma zuciyar Amina tana cike da bege, karfin zuciya, da sabon haske na rayuwa. Wannan shine **farkon sabon babi** a rayuwarta – cikakke da darussa, haɗin kai, da bege.  
+</p>
+
+<div class="nav-buttons">
+<a href="#ep6">&laquo; Episode 6</a>
+<a href="#ep1">Back to Episode 1</a>
+</div>
+<h3 id="ep5D">Part D – Kammalawa da Darasi</h3>
+<p>
+Amina ta tsaya ta nazarci duk abin da ta koya a wannan Episode. Ta fahimci cewa gaskiya, haɗin kai, da juriya suna da matuƙar muhimmanci. Kowanne ɗan wasa da ta haɗu da shi, daga Japan, Brazil, ko Indiya, ya koya mata darussa masu amfani.  
+</p>
+<p>
+Ta gane cewa nasara ba kawai samun sakamako mai kyau ba ne, amma yadda ka yi hulɗa da mutane, yadda ka koyi darussa daga kowanne mutum, da yadda ka yi amfani da ilimi wajen taimaka wa wasu. Wannan darasi ya kasance babban ginshiƙi ga ci gaban Amina.  
+</p>
+<p>
+Ta rubuta a diary nata: <em>"Gaskiya, haɗin kai, da jajircewa sune makullin rayuwa. Kowanne mataki yana da darasi, kowanne mutum yana da hikima da za a koya."</em>  
+</p>
+<p>
+Kammalawar wannan Episode ta nuna cewa dukkan ƙoƙari, haɗin kai da ilmantarwa na duniya suna shirya Amina don manyan abubuwan da ke gaba. Wannan shi ne **kashi na ƙarshe na Episode 5**, kafin ta shiga kalubale na Episode 6.
+</p>
+
+<div class="nav-buttons">
+<a href="#ep4">&laquo; Episode 4</a>
+<a href="#ep6">Next → Episode 6</a>
+</div>
